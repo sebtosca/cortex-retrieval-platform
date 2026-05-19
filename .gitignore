@@ -44,3 +44,4 @@ qdrant_storage/
 
 # Benchmarks raw outputs (commit manually after review)
 benchmarks/results/*.json
+.claude/
