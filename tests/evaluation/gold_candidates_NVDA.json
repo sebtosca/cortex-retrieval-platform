@@ -1,0 +1,77 @@
+[
+  {
+    "company": "NVDA",
+    "question": "What is Project G-Assist and what technologies does it use?",
+    "reference": "Project G-Assist is NVIDIA's on-device AI assistant for GeForce RTX PCs. It leverages a local small language model and computer vision to provide context-aware help, diagnostics, and control of games and system settings."
+  },
+  {
+    "company": "NVDA",
+    "question": "When did G-Assist become publicly available to consumers?",
+    "reference": "G-Assist became accessible via the NVIDIA App in 2024\u20132025. This marked the first time consumers could interact with the assistant at scale."
+  },
+  {
+    "company": "NVDA",
+    "question": "What are the three main ways G-Assist addresses challenges for gaming PC users?",
+    "reference": "G-Assist addresses this by: Providing a conversational interface to manage performance and system optimization. Reducing the learning curve for newcomers while offering advanced controls for experienced gamers. Showcasing RTX GPUs as AI-capable devices beyond graphics rendering."
+  },
+  {
+    "company": "NVDA",
+    "question": "What specific improvements did DLSS 2 bring compared to DLSS 1?",
+    "reference": "DLSS 1 (2018) had initial AI upscaling with limited adoption due to artifacts. DLSS 2 (2020) was a major breakthrough with temporal data and widespread game support."
+  },
+  {
+    "company": "NVDA",
+    "question": "What key feature was introduced in DLSS 3?",
+    "reference": "DLSS 3 (2022) introduced frame generation, improving perceived smoothness but with challenges like ghosting."
+  },
+  {
+    "company": "NVDA",
+    "question": "What technology does DLSS 4 use to generate intermediate frames?",
+    "reference": "DLSS 4 refines the frame generation system by using optical flow acceleration combined with improved AI prediction to generate intermediate frames that feel smoother and reduce visible ghosting."
+  },
+  {
+    "company": "NVDA",
+    "question": "What is the current status of DLSS 4 as of 2025?",
+    "reference": "As of 2025, DLSS 4 is fully available and integrated into many new AAA titles. It is actively promoted in NVIDIA's Game Ready drivers and continues to expand through partnerships with major publishers."
+  },
+  {
+    "company": "NVDA",
+    "question": "How does G-Assist increase adoption within the NVIDIA ecosystem?",
+    "reference": "Increasing adoption and retention within the NVIDIA ecosystem by offering added value at no additional cost."
+  },
+  {
+    "company": "NVDA",
+    "question": "What technical challenge in frame generation may hinder adoption among esports professionals?",
+    "reference": "Frame generation artifacts, particularly in competitive fast-paced games, may hinder adoption among esports professionals."
+  },
+  {
+    "company": "NVDA",
+    "question": "What game development tools has NVIDIA provided to support DLSS 4 integration?",
+    "reference": "NVIDIA has expanded DLSS 4's reach with SDKs designed for easier integration into game engines such as Unreal Engine and Unity."
+  },
+  {
+    "company": "NVDA",
+    "question": "What challenges has G-Assist faced among early users?",
+    "reference": "Early users reported incorrect answers, performance overhead, and occasional stability issues, which NVIDIA continues to address through patches and model optimizations."
+  },
+  {
+    "company": "NVDA",
+    "question": "What is NVIDIA's headquarters location?",
+    "reference": "Headquartered in Santa Clara, California, NVIDIA designs hardware and software platforms that power gaming, data centers, robotics, autonomous vehicles, and scientific research."
+  },
+  {
+    "company": "NVDA",
+    "question": "How does G-Assist align with NVIDIA's 'AI Everywhere' strategy?",
+    "reference": "It demonstrates AI as a core capability across NVIDIA's product portfolio, including consumer hardware."
+  },
+  {
+    "company": "NVDA",
+    "question": "What extension capability was added to G-Assist during iterative updates in 2024-2025?",
+    "reference": "Through 2024 and 2025, NVIDIA improved memory efficiency, broadened GPU compatibility, and launched plugin SDKs. Developer hackathons were also introduced during this period to spur ecosystem growth."
+  },
+  {
+    "company": "NVDA",
+    "question": "What benefit does DLSS 4 provide for fast-paced gaming titles?",
+    "reference": "This is particularly impactful for fast-paced titles like shooters and racing games, where responsiveness is critical."
+  }
+]

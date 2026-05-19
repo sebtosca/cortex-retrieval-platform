@@ -1,0 +1,77 @@
+[
+  {
+    "company": "AMZN",
+    "question": "What is the primary objective of Amazon Bedrock?",
+    "reference": "The primary objective of Amazon Bedrock is to democratize access to cutting-edge generative AI technologies by providing a platform that simplifies the development and deployment of AI applications."
+  },
+  {
+    "company": "AMZN",
+    "question": "When was Amazon Bedrock announced and when did it become generally available?",
+    "reference": "Amazon Bedrock was announced in April 2023, with a preview release allowing select customers to explore its capabilities. The platform became generally available in July 2023."
+  },
+  {
+    "company": "AMZN",
+    "question": "What are the key challenges that Amazon Bedrock aims to address?",
+    "reference": "Bedrock addresses several key challenges: Simplifying AI Development by reducing complexity, Enhancing Model Accessibility by providing access to high-performance FMs, Ensuring Scalability through serverless architecture, and Promoting Innovation by lowering barriers to entry."
+  },
+  {
+    "company": "AMZN",
+    "question": "What is Amazon Olympus and what types of content can it process?",
+    "reference": "Amazon Olympus is a multimodal AI model capable of processing and understanding text, images, and videos simultaneously. This capability allows users to interact with multimedia content through simple text-based prompts."
+  },
+  {
+    "company": "AMZN",
+    "question": "What is the primary objective of the Olympus project?",
+    "reference": "The primary objective of Olympus is to reduce Amazon's reliance on external AI providers by developing an in-house solution that can process and understand multimedia content, while improving user experience through more intuitive and accurate search capabilities."
+  },
+  {
+    "company": "AMZN",
+    "question": "What specific example is given for Olympus's search capabilities?",
+    "reference": "Users can search for specific scenes in videos, such as 'the winning basket in a basketball game,' and Olympus can precisely locate that scene."
+  },
+  {
+    "company": "AMZN",
+    "question": "What is Amazon SageMaker and what is its primary function?",
+    "reference": "Amazon SageMaker is a fully managed service provided by AWS that simplifies the process of building, training, and deploying machine learning models at scale. It provides a complete set of tools and infrastructure to support the end-to-end machine learning lifecycle."
+  },
+  {
+    "company": "AMZN",
+    "question": "Name three key components of Amazon SageMaker.",
+    "reference": "Key components of SageMaker include SageMaker Studio, an integrated development environment for ML; SageMaker Canvas, which allows non-technical users to build models without writing code; and SageMaker Pipelines, which automates ML workflows."
+  },
+  {
+    "company": "AMZN",
+    "question": "What governance and monitoring tools does AWS provide for SageMaker?",
+    "reference": "AWS provides comprehensive monitoring and governance tools such as SageMaker Model Monitor and SageMaker Clarify to help businesses maintain model accuracy, fairness, and regulatory compliance."
+  },
+  {
+    "company": "AMZN",
+    "question": "What specialized compute instances does AWS invest in to support SageMaker?",
+    "reference": "AWS invests in specialized compute instances like Trainium and Inferentia, which are optimized for high-speed ML training and cost-efficient inference."
+  },
+  {
+    "company": "AMZN",
+    "question": "How does SageMaker impact model deployment speed according to the report?",
+    "reference": "Organizations can deploy models in days or weeks instead of months using SageMaker, accelerating time-to-market for AI solutions."
+  },
+  {
+    "company": "AMZN",
+    "question": "What are the business benefits reported for SageMaker customers?",
+    "reference": "Customers have documented measurable benefits in operational efficiency, customer engagement, and revenue generation through AI solutions built on SageMaker, including improved workflow automation and predictive analytics capabilities."
+  },
+  {
+    "company": "AMZN",
+    "question": "What are the anticipated business impacts of the Olympus project?",
+    "reference": "The introduction of Olympus is anticipated to enhance search capabilities, reduce dependence on external AI providers, provide competitive advantage, and increase adoption of AWS services."
+  },
+  {
+    "company": "AMZN",
+    "question": "What are the main challenges facing the Olympus project?",
+    "reference": "The Olympus project faces challenges including technical complexity in developing multimodal AI, integration with existing systems, market competition from established AI models, and ethical and privacy concerns related to handling multimedia content."
+  },
+  {
+    "company": "AMZN",
+    "question": "How does Amazon use AI in its retail business operations?",
+    "reference": "In retail, AI powers product recommendations, dynamic pricing, fraud detection, and supply chain optimization, making shopping faster and more personalized."
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "company": "GOOGL",
+    "question": "What are the multiple tiers of Gemini models and their primary optimization focuses?",
+    "reference": "Gemini models come in multiple tiers: Flash (optimized for speed and efficiency), Pro/Ultra (high reasoning and multimodal capabilities), and experimental Pro/Ultra releases (cutting-edge research variants)."
+  },
+  {
+    "company": "GOOGL",
+    "question": "Which consumer and enterprise products integrate Gemini technology?",
+    "reference": "Gemini integrates with a suite of consumer and enterprise products, including Bard, Chrome, Google Workspace, and developer APIs."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What is the Agent2Agent (A2A) protocol and what capability does it enable?",
+    "reference": "The platform introduces the Agent2Agent (A2A) protocol, enabling multiple AI agents to interact and coordinate across enterprise workflows."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the four generative media models included in Vertex AI's generative suite?",
+    "reference": "Vertex AI's generative suite includes Veo 3 for video, Imagen 4 for images, Lyria 2 for music, and Chirp 3 for speech synthesis."
+  },
+  {
+    "company": "GOOGL",
+    "question": "When was Vertex AI originally launched and what was its initial purpose?",
+    "reference": "Vertex AI was launched in 2021 as a unified platform for enterprise ML workloads."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What technical challenges does Gemini aim to solve?",
+    "reference": "Gemini aims to solve technical challenges in retrieval-augmented generation, long-context summarization, multimodal processing, and real-time action-based reasoning."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the three main competitive threats Google faces in AI according to the document?",
+    "reference": "Google faces competition in maintaining differentiation amid OpenAI, Meta, Anthropic, and emerging open models."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What regulatory risks are associated with Gemini's integration with Chrome and Workspace?",
+    "reference": "Chrome and Workspace integrations could attract antitrust and AI regulation scrutiny."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What timeline milestone occurred in Early 2025 for Gemini releases?",
+    "reference": "Early 2025: Gemini 2.0 release, enhanced reasoning, multimodal capabilities, and Chrome integration testing for Pro/Ultra users."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the four key enterprise challenges that Vertex AI is designed to address?",
+    "reference": "Vertex AI addresses key enterprise challenges: reducing time and cost for content creation across media types, automating enterprise workflows that require multi-step agent-driven orchestration, providing governance, compliance, and security features for sensitive enterprise data, and lowering the barrier to entry for AI adoption by offering a fully managed platform with pre-trained models, AutoML, and operational tools."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What investment scale does Gemini represent according to the document?",
+    "reference": "Gemini represents a multi-billion-dollar investment in AI research and infrastructure, including compute resources (Google TPUs, cloud storage), engineering teams, DeepMind research operations, and product integration costs for Chrome, Workspace, and Bard."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What is a key risk identified for Gemini model deployment?",
+    "reference": "Model Safety: Hallucinations and factual inaccuracies remain a risk, requiring constant evaluation and moderation."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What operational cost challenge is highlighted for high-performing AI models?",
+    "reference": "High-performing models require significant energy and infrastructure, increasing operational costs."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What performance achievement did Gemini 2.5 accomplish according to business impact metrics?",
+    "reference": "Gemini 2.5 has achieved top rankings on reasoning, coding, and multimodal benchmarks, providing competitive differentiation."
+  },
+  {
+    "company": "GOOGL",
+    "question": "When was the Agent2Agent protocol and generative media models launched for Vertex AI?",
+    "reference": "2025: Launch of generative media models (Veo 3, Imagen 4, Lyria 2, Chirp 3) and Agent2Agent protocol at Google Cloud Next."
+  }
+]

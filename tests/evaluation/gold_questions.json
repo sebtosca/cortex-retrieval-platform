@@ -1,0 +1,252 @@
+[
+  {
+    "company": "IBM",
+    "question": "What is IBM Watsonx and what are its main capabilities?",
+    "reference": "IBM Watsonx is IBM's central AI and data platform, launched in 2023. It provides an integrated suite of tools for building, deploying, and governing AI models, enabling enterprises to scale AI applications with trust and transparency across hybrid cloud environments."
+  },
+  {
+    "company": "IBM",
+    "question": "What are IBM Granite models and what makes them suitable for enterprise AI?",
+    "reference": "IBM Granite models are a family of open-source foundation models developed by IBM for enterprise AI applications. They are designed to be transparent, efficient, and trustworthy, covering use cases such as code generation, document summarization, and natural language processing."
+  },
+  {
+    "company": "IBM",
+    "question": "How does IBM approach AI governance and responsible AI?",
+    "reference": "IBM has developed a comprehensive AI governance framework emphasising transparency, explainability, and fairness. IBM Watsonx.governance provides tools to monitor AI models for bias, drift, and regulatory compliance, helping enterprises deploy AI responsibly."
+  },
+  {
+    "company": "IBM",
+    "question": "What role does IBM play in open-source AI development?",
+    "reference": "IBM actively contributes to open-source AI by releasing the Granite model family under open licences and participating in initiatives such as the Linux Foundation AI & Data and Hugging Face, promoting community-driven AI research and development."
+  },
+  {
+    "company": "IBM",
+    "question": "How is IBM using AI to transform enterprise operations?",
+    "reference": "IBM Consulting integrates AI and automation into client engagements, using tools built on IBM Watsonx to automate workflows, accelerate decision-making, and extract insights from enterprise data across industries including finance, healthcare, and manufacturing."
+  },
+  {
+    "company": "IBM",
+    "question": "What is IBM Guardium AI Security and what security risks does it address?",
+    "reference": "IBM Guardium AI Security is an IBM offering designed to secure generative and autonomous AI systems by managing risks around models, data, usage, and governance. It discovers shadow AI deployments across enterprise environments, scans model inputs and outputs for prompt injection and data leakage, and performs automated red-teaming and penetration testing. It integrates with IBM Watsonx Governance for unified AI oversight and supports compliance with regulatory frameworks including the EU AI Act, ISO standards, and the NIST AI Risk Management Framework."
+  },
+  {
+    "company": "IBM",
+    "question": "What industry sectors has IBM Watson been deployed in and what business outcomes has it delivered?",
+    "reference": "IBM Watson has been deployed across healthcare, finance, customer service, and retail. In healthcare, it assists providers in diagnosing diseases and recommending treatment options. In finance, it supports risk assessment and fraud detection. Watson Assistant powers customer service chatbots and virtual agents. In retail, Watson enables personalized marketing and inventory management. IBM has invested over one billion dollars in Watson's development and expansion."
+  },
+  {
+    "company": "IBM",
+    "question": "What regulatory compliance frameworks does IBM's AI security portfolio support?",
+    "reference": "IBM Guardium AI Security supports compliance with major global AI regulatory frameworks including the EU AI Act, ISO standards, and the NIST AI Risk Management Framework. It helps organizations avoid regulatory penalties by automating risk scoring, monitoring for policy violations, and providing documentation to support compliance audits across AI deployments."
+  },
+  {
+    "company": "IBM",
+    "question": "What were the key release milestones in the development of IBM Granite models?",
+    "reference": "IBM Granite model development proceeded through several milestones. Initial models including Granite.13b.instruct and Granite.13b.chat were released in November 2023. In May 2024, IBM open-sourced four Granite code models under the Apache 2.0 licence, making them available on Hugging Face. Granite 3.0 was introduced in October 2024 with enhanced performance. Granite 3.2 followed in February 2025 with improvements in multimodal understanding."
+  },
+  {
+    "company": "IBM",
+    "question": "What are the key risks and challenges IBM identifies in deploying AI at enterprise scale?",
+    "reference": "IBM identifies several risks in enterprise AI deployment. For Watson, challenges include data privacy when handling sensitive information, model bias and fairness concerns, integration complexity with existing business systems, and evolving regulatory compliance requirements. For Guardium AI Security, challenges include detecting all AI usage across decentralised environments including shadow AI, managing rapidly changing global regulations, handling false positives from automated monitoring, and balancing strict security policies against potential performance and usability impacts."
+  },
+  {
+    "company": "AMZN",
+    "question": "What is the primary objective of Amazon Bedrock?",
+    "reference": "The primary objective of Amazon Bedrock is to democratize access to cutting-edge generative AI technologies by providing a platform that simplifies the development and deployment of AI applications."
+  },
+  {
+    "company": "AMZN",
+    "question": "When was Amazon Bedrock announced and when did it become generally available?",
+    "reference": "Amazon Bedrock was announced in April 2023, with a preview release allowing select customers to explore its capabilities. The platform became generally available in July 2023."
+  },
+  {
+    "company": "AMZN",
+    "question": "What are the key challenges that Amazon Bedrock aims to address?",
+    "reference": "Bedrock addresses several key challenges: Simplifying AI Development by reducing complexity, Enhancing Model Accessibility by providing access to high-performance FMs, Ensuring Scalability through serverless architecture, and Promoting Innovation by lowering barriers to entry."
+  },
+  {
+    "company": "AMZN",
+    "question": "What is Amazon Olympus and what types of content can it process?",
+    "reference": "Amazon Olympus is a multimodal AI model capable of processing and understanding text, images, and videos simultaneously. This capability allows users to interact with multimedia content through simple text-based prompts."
+  },
+  {
+    "company": "AMZN",
+    "question": "What are the anticipated business impacts of the Olympus project?",
+    "reference": "The introduction of Olympus is anticipated to enhance search capabilities, reduce dependence on external AI providers, provide competitive advantage, and increase adoption of AWS services."
+  },
+  {
+    "company": "AMZN",
+    "question": "What is Amazon SageMaker and what is its primary function?",
+    "reference": "Amazon SageMaker is a fully managed service provided by AWS that simplifies the process of building, training, and deploying machine learning models at scale. It provides a complete set of tools and infrastructure to support the end-to-end machine learning lifecycle."
+  },
+  {
+    "company": "AMZN",
+    "question": "Name three key components of Amazon SageMaker.",
+    "reference": "Key components of SageMaker include SageMaker Studio, an integrated development environment for ML; SageMaker Canvas, which allows non-technical users to build models without writing code; and SageMaker Pipelines, which automates ML workflows."
+  },
+  {
+    "company": "AMZN",
+    "question": "What governance and monitoring tools does AWS provide for SageMaker?",
+    "reference": "AWS provides comprehensive monitoring and governance tools such as SageMaker Model Monitor and SageMaker Clarify to help businesses maintain model accuracy, fairness, and regulatory compliance."
+  },
+  {
+    "company": "AMZN",
+    "question": "What specialized compute instances does AWS invest in to support SageMaker?",
+    "reference": "AWS invests in specialized compute instances like Trainium and Inferentia, which are optimized for high-speed ML training and cost-efficient inference."
+  },
+  {
+    "company": "AMZN",
+    "question": "How does Amazon use AI in its retail business operations?",
+    "reference": "In retail, AI powers product recommendations, dynamic pricing, fraud detection, and supply chain optimization, making shopping faster and more personalized."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the multiple tiers of Gemini models and their primary optimization focuses?",
+    "reference": "Gemini models come in multiple tiers: Flash (optimized for speed and efficiency), Pro/Ultra (high reasoning and multimodal capabilities), and experimental Pro/Ultra releases (cutting-edge research variants)."
+  },
+  {
+    "company": "GOOGL",
+    "question": "Which consumer and enterprise products integrate Gemini technology?",
+    "reference": "Gemini integrates with a suite of consumer and enterprise products, including Bard, Chrome, Google Workspace, and developer APIs."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What is the Agent2Agent (A2A) protocol and what capability does it enable?",
+    "reference": "The platform introduces the Agent2Agent (A2A) protocol, enabling multiple AI agents to interact and coordinate across enterprise workflows."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the four generative media models included in Vertex AI's generative suite?",
+    "reference": "Vertex AI's generative suite includes Veo 3 for video, Imagen 4 for images, Lyria 2 for music, and Chirp 3 for speech synthesis."
+  },
+  {
+    "company": "GOOGL",
+    "question": "When was Vertex AI originally launched and what was its initial purpose?",
+    "reference": "Vertex AI was launched in 2021 as a unified platform for enterprise ML workloads."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What technical challenges does Gemini aim to solve?",
+    "reference": "Gemini aims to solve technical challenges in retrieval-augmented generation, long-context summarization, multimodal processing, and real-time action-based reasoning."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the four key enterprise challenges that Vertex AI is designed to address?",
+    "reference": "Vertex AI addresses key enterprise challenges: reducing time and cost for content creation across media types, automating enterprise workflows that require multi-step agent-driven orchestration, providing governance, compliance, and security features for sensitive enterprise data, and lowering the barrier to entry for AI adoption by offering a fully managed platform with pre-trained models, AutoML, and operational tools."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What performance achievement did Gemini 2.5 accomplish according to business impact metrics?",
+    "reference": "Gemini 2.5 has achieved top rankings on reasoning, coding, and multimodal benchmarks, providing competitive differentiation."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What are the main competitive threats Google faces in AI according to the document?",
+    "reference": "Google faces competition in maintaining differentiation amid OpenAI, Meta, Anthropic, and emerging open models."
+  },
+  {
+    "company": "GOOGL",
+    "question": "What investment scale does Gemini represent according to the document?",
+    "reference": "Gemini represents a multi-billion-dollar investment in AI research and infrastructure, including compute resources (Google TPUs, cloud storage), engineering teams, DeepMind research operations, and product integration costs for Chrome, Workspace, and Bard."
+  },
+  {
+    "company": "MSFT",
+    "question": "What is Azure AI Foundry Labs and what is its primary purpose?",
+    "reference": "Azure AI Foundry Labs is an experimental AI platform developed by Microsoft to accelerate the translation of advanced AI research into real-world applications. It acts as a collaborative hub for developers, startups, enterprises, and Microsoft Research teams, offering early access to cutting-edge AI models, tools, and frameworks."
+  },
+  {
+    "company": "MSFT",
+    "question": "Which Microsoft 365 applications have Copilot embedded?",
+    "reference": "Microsoft 365 Copilot is an AI-powered productivity assistant embedded across Microsoft 365 applications, including Word, Excel, PowerPoint, Outlook, and Teams."
+  },
+  {
+    "company": "MSFT",
+    "question": "What are the key differences between GitHub Copilot and IntelliCode?",
+    "reference": "GitHub Copilot suggests code completions, autocompletes lines or functions, reviews pull requests, and supports conversational assistance through Copilot Chat with agent-like capabilities and multi-model support. IntelliCode is Microsoft's AI feature for Visual Studio and Visual Studio Code that offers context-aware suggestions, whole-line completions, and member recommendations within classes and libraries, focusing on lightweight, in-IDE productivity support rather than full autonomous coding tasks."
+  },
+  {
+    "company": "MSFT",
+    "question": "When was GitHub Copilot first launched?",
+    "reference": "GitHub Copilot was launched in preview for Visual Studio Code in 2021."
+  },
+  {
+    "company": "MSFT",
+    "question": "What types of AI capabilities does Azure AI Foundry Labs support for experimentation?",
+    "reference": "Foundry Labs supports experimentation with natural language processing, computer vision, generative AI, and multi-agent systems."
+  },
+  {
+    "company": "MSFT",
+    "question": "What were the main objectives for GitHub Copilot and IntelliCode development?",
+    "reference": "The main objectives include: boost developer productivity by reducing time spent on repetitive coding tasks, improve code quality with secure context-sensitive suggestions, assist less experienced developers by providing learning support directly inside the IDE, scale from simple auto-completions to powerful AI assistants capable of multi-file edits and reviews, and strengthen enterprise adoption by ensuring secure, compliant, and scalable AI coding tools."
+  },
+  {
+    "company": "MSFT",
+    "question": "What key goal does Microsoft 365 Copilot aim to achieve in data analysis?",
+    "reference": "A key goal is data-driven decision making: enable employees to quickly extract actionable insights from organizational data without advanced analytics expertise."
+  },
+  {
+    "company": "MSFT",
+    "question": "What was the timeline for Microsoft 365 Copilot's public release?",
+    "reference": "Microsoft 365 Copilot had development and internal testing in 2023, public preview and beta testing for enterprise clients in March 2024, and wider availability rollout to Microsoft 365 subscribers in selected regions in mid-2024."
+  },
+  {
+    "company": "MSFT",
+    "question": "What types of AI capabilities does Microsoft's broader AI ecosystem include?",
+    "reference": "Microsoft's AI ecosystem includes natural language processing, machine learning, computer vision, and generative AI, powering applications such as Word, Excel, Teams, and GitHub Copilot, as well as enterprise AI solutions via Azure."
+  },
+  {
+    "company": "MSFT",
+    "question": "What were the main strategic goals that drove Microsoft's AI initiatives according to the report?",
+    "reference": "Microsoft's strategic goals include: embed AI across its cloud and productivity ecosystem, reinforce Microsoft 365 as the leading productivity platform globally, enable digital transformation for enterprises through AI-enhanced workflows, and maintain leadership in AI innovation and enterprise software adoption."
+  },
+  {
+    "company": "NVDA",
+    "question": "What is Project G-Assist and what technologies does it use?",
+    "reference": "Project G-Assist is NVIDIA's on-device AI assistant for GeForce RTX PCs. It leverages a local small language model and computer vision to provide context-aware help, diagnostics, and control of games and system settings."
+  },
+  {
+    "company": "NVDA",
+    "question": "When did G-Assist become publicly available to consumers?",
+    "reference": "G-Assist became accessible via the NVIDIA App in 2024–2025. This marked the first time consumers could interact with the assistant at scale."
+  },
+  {
+    "company": "NVDA",
+    "question": "What are the three main ways G-Assist addresses challenges for gaming PC users?",
+    "reference": "G-Assist addresses this by: Providing a conversational interface to manage performance and system optimization. Reducing the learning curve for newcomers while offering advanced controls for experienced gamers. Showcasing RTX GPUs as AI-capable devices beyond graphics rendering."
+  },
+  {
+    "company": "NVDA",
+    "question": "What specific improvements did DLSS 2 bring compared to DLSS 1?",
+    "reference": "DLSS 1 (2018) had initial AI upscaling with limited adoption due to artifacts. DLSS 2 (2020) was a major breakthrough with temporal data and widespread game support."
+  },
+  {
+    "company": "NVDA",
+    "question": "What key feature was introduced in DLSS 3?",
+    "reference": "DLSS 3 (2022) introduced frame generation, improving perceived smoothness but with challenges like ghosting."
+  },
+  {
+    "company": "NVDA",
+    "question": "What technology does DLSS 4 use to generate intermediate frames?",
+    "reference": "DLSS 4 refines the frame generation system by using optical flow acceleration combined with improved AI prediction to generate intermediate frames that feel smoother and reduce visible ghosting."
+  },
+  {
+    "company": "NVDA",
+    "question": "What is the current status of DLSS 4 as of 2025?",
+    "reference": "As of 2025, DLSS 4 is fully available and integrated into many new AAA titles. It is actively promoted in NVIDIA's Game Ready drivers and continues to expand through partnerships with major publishers."
+  },
+  {
+    "company": "NVDA",
+    "question": "What game development tools has NVIDIA provided to support DLSS 4 integration?",
+    "reference": "NVIDIA has expanded DLSS 4's reach with SDKs designed for easier integration into game engines such as Unreal Engine and Unity."
+  },
+  {
+    "company": "NVDA",
+    "question": "What challenges has G-Assist faced among early users?",
+    "reference": "Early users reported incorrect answers, performance overhead, and occasional stability issues, which NVIDIA continues to address through patches and model optimizations."
+  },
+  {
+    "company": "NVDA",
+    "question": "How does G-Assist align with NVIDIA's 'AI Everywhere' strategy?",
+    "reference": "It demonstrates AI as a core capability across NVIDIA's product portfolio, including consumer hardware."
+  }
+]

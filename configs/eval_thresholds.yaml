@@ -1,0 +1,25 @@
+# RAGAS regression thresholds for the gold question set
+# (tests/evaluation/gold_questions.json — 10 manually verified questions)
+#
+# These are the MINIMUM acceptable scores.  If evaluation/results/latest.json
+# drops below any threshold, the eval-gate CI job fails.
+#
+# To raise a threshold: run `make eval`, confirm the new score exceeds the
+# new threshold, update this file, and commit both together.
+
+thresholds:
+  # Fraction of answer claims fully supported by retrieved context
+  # Baseline (2026-05-14): 0.9349
+  faithfulness: 0.85
+
+  # Fraction of reference-answer information covered by retrieved chunks
+  # Baseline (2026-05-14): 0.1500 — low due to narrow top_k=5 retrieval window
+  context_recall: 0.10
+
+  # Semantic relevance of the answer to the original question
+  # Baseline (2026-05-14): 0.5822
+  answer_relevancy: 0.50
+
+  # Custom metric: answer contains no fabricated financial facts/company claims
+  # Baseline (2026-05-14): 1.0000
+  financial_groundedness: 0.80
